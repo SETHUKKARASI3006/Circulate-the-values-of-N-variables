@@ -33,5 +33,7 @@ i=int(input())
 print("After circulating the values are:",circulate())
 ```
 ## Output:
-![output](/circulateoutput.png)
+![circulateoutput](https://github.com/SETHUKKARASI3006/Circulate-the-values-of-N-variables/assets/144979338/a7c7dcdb-f610-4604-8b98-815c69de1b6d)
+
 ## Result:
+Thus circulating n variables is executed successfully.
